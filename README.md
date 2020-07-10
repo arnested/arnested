@@ -1,0 +1,1 @@
+<img src="code-sprinter.jpg" alt="Me wearing the @reload code sprinter t-shirt and listening to L.O.C. while hacking on #1921544 at Drupalcon Prague 2013" title="Photo by Amazee Labs under https://creativecommons.org/licenses/by-nc-sa/2.0/">
